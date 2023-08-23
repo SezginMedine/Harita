@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p> Deponun_Bölgesi: Kavak Kasabası <p> Kapasite(ton): 654.000 <p> Depo_Sayisi: 335 <p> Alani:  630.000 <p>  Depolanan_urun:  Patates , Limon <p> Konum_x: 38,577776 <p> Konum_y: 34,815808 </p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.822097923269354,
+          38.57352575230021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p> Deponun_Bölgesi: Nevşehir Merkez <p> Kapasite(ton): 409.000 <p> Depo_Sayisi:81 <p> Alani: 395.000<p> Depolanan_urun:Patates<p> Konum_x:38.62378 <p> Konum_y: 34.71225</p>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.70552634952739,
+          38.623107299922054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p> Deponun_Bölgesi:Ortahisar Kasabası<p> Kapasite(ton):78.000  <p> Depo_Sayisi:358 <p> Alani:69.642 <p> Depolanan_urun:Patates,Limon <p> Konum_x:38.621835617239554<p> Konum_y: 34.86477899999858</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.86477899999858,
+          38.621835617239554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Mazi Köyü<p> Kapasite(ton):37.500 <p> Depo_Sayisi:78 <p> Alani:33.729 <p>Depolanan_urun: Patates <p>Konum_x:38.46759418793579 <p>Konum_y:34.840667468487936 </p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.840667468487936,
+          38.46759418793579
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Şahinefendi Köyü <p>Kapasite(ton):37.500 <p> Depo_Sayisi:67 <p> Alani:27.406 <p> Depolanan_urun:Patates<p>Konum_x:38.46759418793579<p>Konum_y:34.94968119067755</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.94968119067755,
+          38.46759418793579
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Güneyce Köyü<p>Kapasitesi(ton):20.000 <p> Depo_Sayisi:18<p>Alani:17.857<p>Depolanan_urun:Patatesp>Konum_x38.48860926152915:<p>Konum_y:34.848647822737746 </p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.848647822737746,
+          38.48860926152915
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Kaymaklı Köyü<p>Kapasitesi(ton):15.000 <p>Depo_Sayisi:10<p>Alani:13.392<p>Depolanan_urun:Patates<p>Konum_x:38.462051462870704<p>Konum_y:34.75104984196511</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.75104984196511,
+          38.462051462870704
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Taşkınpaşa Köyü<p>Kapasitesi(ton):8.900<p> Depo_Sayisi:62<p>Alani:7.946<p>Depolanan_urun:Patates<p>Konum_x:38.49412316786061<p>Konum_y:34.948001547291256</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.948001547291256,
+          38.49412316786061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Bahçeli Köyü<p>Kapasitesi(ton):8.000<p>Depo_Sayisi:26 <p> Alani:7.142 <p> Depolanan_urun:Patates<p>Konum_x: 38.591873415214735<p>Konum_y:34.71427551471723 </p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.71427551471723,
+          38.591873415214735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Çardak Köyü<p>Kapasitesi(ton):8.000<p>Depo_Sayisi:10<p>Alani:7.142 <p> Depolanan_urun:Patates<p>Konum_x:38.55086838225904<p>Konum_y:34.76617034499557</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.76617034499557,
+          38.55086838225904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Bahçeli Köyü<p>Kapasitesi(ton):3.800<p>Depo_Sayisi: 31 <p> Alani: 3.473 <p> Depolanan_urun :Patates <p>Konum_x: 38.54801319034573 <p>Konum_y:34.847321447784026/p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.847321447784026,
+          38.54801319034573
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Ayvalık Köyü<p>Kapasitesi(ton): 3.200<p>Deponun_Sayisi: 55 <p> Alani: 2.852<p>Depolanan_urun:Patates<p>Konum_x: 38.54766298226741<p>Konum_y:34.86956654372287</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.86956654372287,
+          38.54766298226741
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Başdere Köyü <p>Kapasitesi(ton):3.000 <p>Deponun_Sayisi:1 <p>Alani: 2.678<p>Depolanan_urun:Patates<p>Konum_x:38.55321411276384 <p>Konum_y:35.080844047340065 </p>"
+      },
+      "geometry": {
+        "coordinates": [
+          35.080844047340065,
+          38.55321411276384
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Derinkuyu Merkez <p>Kapasitesi(ton):2.000<p>Deponun_Sayisi:1<p>Alani:1.785<p>Depolanan_urun:Patates<p>Konum_x:38.37908179836009<p>konum_y: 34.734251329097276</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.734251329097276,
+          38.37908179836009
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "<p>Deponun_Bölgesi:Cemil  Köyü <p>Kapasitesi(ton):450 <p>Deponun_Sayisi:8<p>Depolanan_urun:Patates<p>Konum_x: 38.523722136671495<p>Kkonum_y 34.93176160370919:</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          34.93176160370919,
+          38.523722136671495
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
