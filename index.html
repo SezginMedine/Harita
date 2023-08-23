@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>My map</title>
+  <meta property="og:description" />
+  <meta charset='utf-8'>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel='stylesheet' href='https://unpkg.com/maplibre-gl@3.2.2/dist/maplibre-gl.css' />
+  <script src='https://unpkg.com/maplibre-gl@3.2.0/dist/maplibre-gl.js'></script>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="map.js"></script>
+</head>
+
+<div id="navbar">
+  <ul>
+    <li><a href="Nakliyat Firma Bilgileri.html">Nakliyat Firma Bilgileri</a></li>
+    <li><a href="Satış Noktaları.html">Satış Noktaları</a></li>
+
+    <li class="dropdown">
+      <a href="javascript:void(0)" class="dropbtn">Yükleme ve Boşaltma Ekipmanları</a>
+      <div class="dropdown-content" style="z-index: 1;">
+        <a href="#">forkliftler</a>
+        <a href="#">palet taşıyıcılar </a>
+      </div>
+    </li>
+  </ul>
+
+
+  <!-- Arama kutusu -->
+  <div class="search-button">
+    <input type="text" id="searchInput" placeholder="Arama yapın...">
+    <button id="searchButton">Ara</button>
+  </div>
+</div>
+
+<div id="map"></div>
+
+</body>
+
+</html>
